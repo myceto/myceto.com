@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700|Noto+Sans:400,700);
+
+.both-center {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.index {
+    h1, p {
+        text-align: center;
+    }
+
+    footer {
+        font-family: Helvetica, sans-serif;
+    }
+}
