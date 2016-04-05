@@ -1,1 +1,1 @@
-web: harp server --port $PORT
+web: ruby app.rb -p $PORT

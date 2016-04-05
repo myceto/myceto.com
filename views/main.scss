@@ -9,11 +9,22 @@
 }
 
 .index {
-    h1, p {
+    img {
+        margin: 0 0 2rem;
+        width: 150px;
+    }
+
+    section {
+        margin: 0 0 4rem;
         text-align: center;
+
+        h1 {
+            margin: 0 0 .5rem;
+        }
     }
 
     footer {
         font-family: Helvetica, sans-serif;
+        text-align: center;
     }
 }
